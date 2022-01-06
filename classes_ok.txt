@@ -1,0 +1,7 @@
+six 8
+eight 10
+ok 3
+love 9
+one 0
+fist 2
+yeah 5

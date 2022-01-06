@@ -1,0 +1,16 @@
+six 8
+eight 10
+heart 4
+ok 3
+rock 18
+like 11
+love 9
+one 0
+five 1
+fist 2
+yeah 5
+three 6
+four 7
+nine 12
+pink 13
+C 20
